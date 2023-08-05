@@ -1,2 +1,2 @@
 # Jury-Matrix
-Compute the Jury Matrix of a given digital control systems characteristic equation.
+Compute the Jury Matrix for a digital system given its characteristic equation.
